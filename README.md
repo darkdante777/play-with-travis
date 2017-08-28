@@ -1,2 +1,2 @@
 ### Play with Travis CI
-Homework number 4
+[![Build Status](https://travis-ci.org/darkdante777/play-with-travis.svg?branch=master)](https://travis-ci.org/darkdante777/play-with-travis)
